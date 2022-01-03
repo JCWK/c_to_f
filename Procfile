@@ -1,1 +1,1 @@
-web gunicorn app:c_to_f
+web gunicorn: c_to_f
