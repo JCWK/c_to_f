@@ -1,1 +1,1 @@
-web gunicorn app: c_to_f
+web: python c_to_f.py
